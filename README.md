@@ -8,10 +8,7 @@
 A **responsive personal portfolio website** built with **HTML, CSS, and Bootstrap** to showcase projects, skills, and achievements.  
 Designed with a **clean layout**, **mobile-first approach**, and smooth navigation for an engaging browsing experience.  
 
----
- ## screenshot of website
-  
-   <img src="./adhil Portfolio.png"> 
+
 
 ## ✨ Features
 
@@ -31,21 +28,30 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
 
 ---
 
+# 🔗 Links
+
+1. Live Demo : [Portfolio Website](https://adhilunnikrishnan.github.io/Portfolio/)
+
+2. GitHub Repository: [ Portfolio Repo](https://github.com/adhilunnikrishnan/Portfolio.git) 
+---
 ## 📂 Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/portfolio.git
    cd portfolio
-2.
+2. Open the folder in VS Code
+
+3. Install Live Server extension
+
+4. Right-click index.html → Open with Live Server
 
 ---
 
-# 🔗 Links
+ ## 📸screenshot of website
+  
+   <img src="./adhil Portfolio.png"> 
 
-1. Live Demo : [Portfolio Website](https://adhilunnikrishnan.github.io/Portfolio/)
-
-2. GitHub Repository: [ Portfolio Repo](https://github.com/adhilunnikrishnan/Portfolio.git) 
 
 ---
 
