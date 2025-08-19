@@ -9,6 +9,9 @@ A **responsive personal portfolio website** built with **HTML, CSS, and Bootstra
 Designed with a **clean layout**, **mobile-first approach**, and smooth navigation for an engaging browsing experience.  
 
 ---
+ ## screenshot of website
+  
+   <img src="./assets/img/adhil portfolio.png"> 
 
 ## ✨ Features
 
@@ -34,9 +37,7 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
    ```bash
    git clone https://github.com/yourusername/portfolio.git
    cd portfolio
-2. **screenshot of website**
-  
-   <img src="./assets/img/Screenshot 2025-08-18 151619.png"> 
+2.
 
 ---
 
