@@ -11,7 +11,7 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
 ---
  ## screenshot of website
   
-   <img src="./assets/img/adhil portfolio.png"> 
+   <img src="./adhil Portfolio.png"> 
 
 ## ✨ Features
 
