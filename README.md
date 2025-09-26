@@ -38,7 +38,7 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/adhilunnikrishnan/portfolio.git
    cd portfolio
 2. Open the folder in VS Code
 
